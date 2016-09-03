@@ -4,7 +4,7 @@ Um projeto inicial para um crawler em Python + Scrapy. Desenvolvido por Bruno Du
 
 Consiste em:
 
-  * [WebCrawler](https://bitbucket.org/brunodb3/websitestarter)
+  * [WebCrawler](https://github.com/brunodb3/python_crawler)
 
 > Este projeto foi desenvolvido por Bruno Duarte Brito como projeto Open-Source, seu código é livre para edições e distribuição
 
